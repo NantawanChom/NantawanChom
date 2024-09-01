@@ -10,6 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nantawanchom&show_icons=true&locale=en" alt="nantawanchom" /></p>
 
-<h3 align="center"> 💆‍♀️ Free time graph 🤟</h3>
+<h3 align="center"> 💆‍♀️ Free Time Graph 🤟</h3>
 
 ![Pie Chart](./static/free_time.png)
