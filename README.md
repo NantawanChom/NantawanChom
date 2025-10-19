@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nungning</h1>
 <h3 align="center">I am interested in backend, frontend, full-stack, and DevOps 🔥.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nantawanchom" alt="nantawanchom" /></a> </p>
 <p align="left">
 </p>
 
